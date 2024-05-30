@@ -1,4 +1,5 @@
 # ProdigySD_Task02
+Number Guessing Game
 This programming task has been assigned by Prodigy Infotech as part of the software development internship.
 
 Description
